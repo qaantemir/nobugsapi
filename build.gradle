@@ -14,6 +14,8 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter'
     testImplementation group: 'io.rest-assured', name: 'rest-assured', version: '5.5.0'
     implementation group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.18.2'
+    implementation group: 'com.codeborne', name: 'selenide', version: '7.6.1'
+
 
 
 }
